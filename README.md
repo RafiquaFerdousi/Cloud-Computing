@@ -4,5 +4,7 @@
 
 ##### The five essential characteristics of the cloud are on-demand self-service, broad network access, resource pooling, rapid elasticity, and measured service.
 
-#####
+##### There are three types of cloud deployment models—Public, Private, and Hybrid.
+
+##### The three service models are based on the three layers in a computing stack - Infrastructure, Platform, and Applications. These cloud computing models are aptly referred to as Infrastructure as a Service (Iaas), Platform as a Service (PaaS), and Software as a Service (SaaS).
 
